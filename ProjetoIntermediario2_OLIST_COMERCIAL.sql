@@ -1,0 +1,8 @@
+SELECT TOP 10 * FROM [dbo].[olist_custo_dataset]
+SELECT TOP 10 * FROM [dbo].[olist_geolocation_dataset]
+SELECT TOP 10 * FROM [dbo].[olist_order_items_dataset]
+SELECT TOP 10 * FROM [dbo].[olist_order_payments_dataset]
+SELECT TOP 10 * FROM [dbo].[olist_order_reviews_dataset]
+SELECT TOP 10 * FROM [dbo].[olist_orders_dataset]
+SELECT TOP 10 * FROM [dbo].[olist_products_dataset]
+SELECT TOP 10 * FROM [dbo].[olist_sellers_dataset]
